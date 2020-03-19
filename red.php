@@ -1,4 +1,3 @@
-<? 
-   header('Status: 301 Moved Permanently', false, 301); 
-   header('Location: https://bitly.com/');
+<?php 
+   header('Location: https://atom.io/'); 
 ?>
